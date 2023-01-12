@@ -1,0 +1,14 @@
+﻿  PipeStartAPP.cpp
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(115,11): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "DWORD"
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(115,11): warning C4313: wprintf: конфликт "%s" в строке формата с аргументом 1 типа "DWORD"
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(115,11): warning C4473: "wprintf": передано недостаточно аргументов для строки формата
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(115,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(115,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%d"
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(133,11): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "DWORD"
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(133,11): warning C4313: wprintf: конфликт "%s" в строке формата с аргументом 1 типа "DWORD"
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(133,11): warning C4473: "wprintf": передано недостаточно аргументов для строки формата
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(133,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(133,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%d"
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(10,9): warning C4101: streamIn1: неиспользованная локальная переменная
+C:\Users\Ideapad\source\repos\PipeStartAPP\PipeStartAPP\PipeStartAPP.cpp(11,9): warning C4101: streamOut1: неиспользованная локальная переменная
+  PipeStartAPP.vcxproj -> C:\Users\Ideapad\source\repos\PipeStartAPP\x64\Debug\PipeStartAPP.exe
