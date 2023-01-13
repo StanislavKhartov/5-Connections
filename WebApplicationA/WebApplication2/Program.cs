@@ -5,7 +5,7 @@ var app = builder.Build();
 app.MapGet("/setmessage", (string message) =>
 {
     Console.WriteLine($"received message: {message}");
-    return Results.Ok("hui");
+    return Results.Ok("Ok");
 }
 );
 
